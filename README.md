@@ -15,10 +15,6 @@ CS grad building things at the intersection of ML and backend dev.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
-![Arsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=probly-arsh&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=probly-arsh&layout=compact&theme=default&hide_border=true)
-
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=probly-arsh&color=blue&style=flat" alt="profile views" />
