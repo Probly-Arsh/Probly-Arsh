@@ -1,4 +1,4 @@
-# Hey, I'm Arsh 👋
+# Hey, I'm Adarsh 👋
 
 CS grad building things at the intersection of ML and backend dev.
 
